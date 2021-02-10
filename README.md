@@ -1,4 +1,6 @@
 ### Hi there 👋
+ 🌱 I’m currently trying to learn how to code :)
+ 
 
 <!--
 **angele-dot/angele-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
